@@ -1,1 +1,1 @@
-# realtime_hand_gesture_detection
+# hand_gesture_detection
